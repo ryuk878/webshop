@@ -1,0 +1,26 @@
+.form-control {
+  width: 40vw;
+  height: 3vh;
+  border-radius: 10px 10px 10px 10px;
+}
+.form-control:hover {
+  box-shadow: rgb(250, 209, 209) 0px 0px 15px;
+}
+.bg-light {
+  background-color: #0000a4 !important;
+  box-shadow: #0000a4 0px 0px 1vh;
+}
+
+.navbar-nav {
+  text-align: center;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.Cart {
+  cursor: pointer;
+  color: white;
+}
+.innerCart {
+  text-align: center;
+  color: #0000a4;
+}
